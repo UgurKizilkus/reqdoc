@@ -1,4 +1,4 @@
-# reqdoc2
+# ReqDoc
 
 Internship Project
 
